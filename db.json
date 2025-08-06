@@ -1,0 +1,156 @@
+{
+  "products": [
+    
+      {
+        "id": 1,
+        "title": "IAS",
+        "subtitle": "Infrastructure as a Service",
+        "price": "235 AZN",
+        "type": "available"
+      },
+      {
+        "id": 2,
+        "title": "PaaS",
+        "subtitle": "Platform as a Service",
+        "price": "144 AZN",
+        "type": "available"
+      },
+      {
+        "id": 3,
+        "title": "SaaS",
+        "subtitle": "Software as a Service",
+        "price": "167 AZN",
+        "type": "available"
+      },
+      {
+        "id": 4,
+        "title": "XaaS",
+        "subtitle": "Everything as a Service",
+        "price": "Coming Soon",
+        "type": "upcoming"
+      },
+      {
+        "id": 5,
+        "title": "IAS",
+        "subtitle": "Infrastructure as a Service",
+        "price": "235 AZN",
+        "type": "available"
+      },
+      {
+        "id": 6,
+        "title": "PaaS",
+        "subtitle": "Platform as a Service",
+        "price": "144 AZN",
+        "type": "available"
+      },
+      {
+        "id": 7,
+        "title": "SaaS",
+        "subtitle": "Software as a Service",
+        "price": "167 AZN",
+        "type": "available"
+      },
+      {
+        "id": 8,
+        "title": "XaaS",
+        "subtitle": "Everything as a Service",
+        "price": "Coming Soon",
+        "type": "upcoming"
+      },
+      {
+        "id": 9,
+        "title": "IAS",
+        "subtitle": "Infrastructure as a Service",
+        "price": "235 AZN",
+        "type": "available"
+      },
+      {
+        "id": 10,
+        "title": "PaaS",
+        "subtitle": "Platform as a Service",
+        "price": "144 AZN",
+        "type": "available"
+      },
+      {
+        "id": 11,
+        "title": "SaaS",
+        "subtitle": "Software as a Service",
+        "price": "167 AZN",
+        "type": "available"
+      },
+      {
+        "id": 12,
+        "title": "XaaS",
+        "subtitle": "Everything as a Service",
+        "price": "Coming Soon",
+        "type": "upcoming"
+      },
+      {
+        "id": 13,
+        "title": "XaaS",
+        "subtitle": "Everything as a Service",
+        "price": "Coming Soon",
+        "type": "upcoming"
+      },
+      {
+        "id": 14,
+        "title": "XaaS",
+        "subtitle": "Everything as a Service",
+        "price": "Coming Soon",
+        "type": "upcoming"
+      },
+      {
+        "id": 15,
+        "title": "XaaS",
+        "subtitle": "Everything as a Service",
+        "price": "Coming Soon",
+        "type": "upcoming"
+      }
+    
+  ],
+  "newsAndBlog": [
+    {
+      "id": 1,
+      "image": "/images/news.jpg",
+      "title": "Startaplara dəstək proqramı",
+      "content": "Bu layihə çərçivəsində müxtəlif sahələrdə inkişaf nəzərdə tutulur...",
+      "date": "10.04.2024"
+    },
+    {
+      "id": 2,
+      "image": "/images/computer.jpg",
+      "title": "Təhsil sistemində yenilik",
+      "content": "Bu layihə çərçivəsində müxtəlif sahələrdə inkişaf nəzərdə tutulur...",
+      "date": "12.04.2024"
+    },
+    {
+      "id": 3,
+      "image": "/images/girlWithComputer.jpg",
+      "title": "Yeni layihə start götürdü",
+      "content": "Gənclər arasında texnologiyaya maraq günü-gündən artır...",
+      "date": "14.04.2024"
+    },
+    {
+      "id": 4,
+      "image": "/images/news.jpg",
+      "title": "Startaplara dəstək proqramı",
+      "content": "Yeni proqram müəllim və şagirdlər arasında daha effektiv tədrisə səbəb olacaq...",
+      "date": "16.04.2024"
+    },
+    {
+      "id": 5,
+      "image": "/images/computer.jpg",
+      "title": "Araşdırma nəticələri açıqlandı",
+      "content": "Bu layihə çərçivəsində müxtəlif sahələrdə inkişaf nəzərdə tutulur...",
+      "date": "18.04.2024"
+    },
+    {
+      "id": 6,
+      "image": "/images/girlWithComputer.jpg",
+      "title": "Müəllimlər üçün seminarlar",
+      "content": "Yeni proqram müəllim və şagirdlər arasında daha effektiv tədrisə səbəb olacaq...",
+      "date": "20.04.2024"
+    }
+    
+  ]
+}
